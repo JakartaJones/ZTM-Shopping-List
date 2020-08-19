@@ -1,0 +1,21 @@
+ul {
+  line-height: 30px;
+  list-style: none;
+}
+
+.delete {
+  background-color: white;
+  border: 1px solid;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.25rem;
+  border-radius: 8px;
+  vertical-align: middle;
+  margin-inline-start: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
